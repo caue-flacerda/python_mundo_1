@@ -1,0 +1,6 @@
+a = input('entre com algo: ')
+print(a.isnumeric())
+print(a.isalpha())
+print(a.isalnum())
+print(a.islower())
+print(a.isupper())
