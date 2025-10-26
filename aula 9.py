@@ -1,0 +1,10 @@
+frase = 'Curso em Video Python'
+oi = frase.split()
+o = ('').join(oi)
+print(oi)
+print(o)
+print(len(oi [0]))
+print(len(oi [1]))
+print(len(oi [2]))
+print(len(oi [3]))
+print(len(o))
